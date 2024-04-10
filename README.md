@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Vinh University in Viet Nam.
+- 🤔 I’m looking for help with any developer in github
+- 😄 Pronouns: Mr Thach
 
 <!--
 **mrquangbadao/mrquangbadao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
