@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Vinh University in Viet Nam.
+- 🌱 I’m currently learning at Vinh University in Viet Nam.
 - 🤔 I’m looking for help with any developer in github
 - 😄 Pronouns: Mr Thach
 
