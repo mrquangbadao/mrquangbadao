@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 From Viet Nam.
-- 🤔 I’m looking for help with any developer in github
-- 😄 Pronouns: Mr QuangBaDao
+- SWE From Viet Nam.
+- I’m looking for help with any developer in github
+- Pronouns: Quang
 
 <!--
 **mrquangbadao/mrquangbadao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
