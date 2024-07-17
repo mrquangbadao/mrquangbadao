@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning at Vinh University in Viet Nam.
+- 🌱 From Viet Nam.
 - 🤔 I’m looking for help with any developer in github
 - 😄 Pronouns: Mr QuangBaDao
 
